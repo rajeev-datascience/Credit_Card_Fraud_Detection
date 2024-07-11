@@ -37,6 +37,8 @@ Data
 
 The dataset used in this project is from the Kaggle Credit Card Fraud Detection competition. It contains transactions made by credit cards in September 2013 by European cardholders.
 
+kaggle link to download the dataset: (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 •	Number of transactions: 284,807
 •	Number of fraudulent transactions: 492
 •	Features: 30 (including Time, Amount, and 28 anonymized features V1 to V28)
